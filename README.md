@@ -1,4 +1,4 @@
-# Django Car Marketplace
+# Motorly
 
 A compact Django catalog for managing and browsing vehicle listings.
 
